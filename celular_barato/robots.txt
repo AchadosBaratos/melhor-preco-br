@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://achadosbaratos.github.io/melhor-preco-br/sitemap.xml
+Sitemap: https://achadosbaratos.github.io/melhor-preco-br/celular_barato/sitemap.xml
 
 # Crawl-delay para evitar sobrecarga
 Crawl-delay: 1
