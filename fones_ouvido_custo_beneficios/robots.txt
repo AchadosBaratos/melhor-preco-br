@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://achadosbaratos.github.io/melhor-preco-br/fones_ouvido_custo_beneficios/sitemap.xml
+
+# Crawl-delay para evitar sobrecarga
+Crawl-delay: 1
+
+# Permitir acesso a recursos importantes
+Allow: /images/
+Allow: /styles.css
+Allow: /script.js
+
+# Bloquear arquivos desnecessários
+Disallow: /admin/
+Disallow: /*.log$
+Disallow: /temp/
+
